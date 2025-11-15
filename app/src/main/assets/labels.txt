@@ -1,0 +1,10 @@
+Aphids
+BandedleafandSheathBlight
+BrownSpot
+CornEarWorm
+CornPlantHopper
+FallArmyWorm
+Healthy
+NorthernLeafBlight
+DownyMildew
+GrayLeafSpots

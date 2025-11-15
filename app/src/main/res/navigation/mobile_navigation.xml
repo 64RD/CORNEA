@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/navigation_library">
+
+    <fragment
+        android:id="@+id/navigation_camera"
+        android:name="com.example.cornea.ui.camera.CameraFragment"/>
+
+    <fragment
+        android:id="@+id/navigation_gallery"
+        android:name="com.example.cornea.ui.gallery.GalleryFragment"/>
+
+    <fragment
+        android:id="@+id/navigation_library"
+        android:name="com.example.cornea.ui.library.LibraryFragment"/>
+</navigation>

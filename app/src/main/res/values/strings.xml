@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Cornea</string>
+    <string name="title_camera">Camera</string>
+    <string name="title_library">Library</string>
+    <string name="title_gallery">Gallery</string>
+</resources>
