@@ -1,10 +1,10 @@
 Aphids
 BandedleafandSheathBlight
 BrownSpot
-CornEarWorm
 CornPlantHopper
+CornEarWorm
+DownyMildew
 FallArmyWorm
+GrayLeafSpots
 Healthy
 NorthernLeafBlight
-DownyMildew
-GrayLeafSpots
