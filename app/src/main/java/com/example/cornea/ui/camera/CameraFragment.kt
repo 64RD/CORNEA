@@ -126,7 +126,7 @@ class CameraFragment : Fragment(R.layout.fragment_camera), Detector.DetectorList
         activity?.runOnUiThread {
             binding.inferenceTime.text = ""
             binding.overlay.clear()
-            Toast.makeText(requireContext(), "No objects detected", Toast.LENGTH_SHORT).show()
+            Toast.makeText(requireContext(), "Corn plant not detected", Toast.LENGTH_SHORT).show()
         }
     }
 

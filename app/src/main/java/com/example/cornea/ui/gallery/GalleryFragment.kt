@@ -129,7 +129,7 @@ class GalleryFragment : Fragment(R.layout.fragment_gallery), Detector.DetectorLi
         activity?.runOnUiThread {
             binding.inferenceTime.text = ""
             binding.overlay.clear()
-            Toast.makeText(requireContext(), "No objects detected", Toast.LENGTH_SHORT).show()
+            Toast.makeText(requireContext(), "Corn plant not detected", Toast.LENGTH_SHORT).show()
         }
     }
 
