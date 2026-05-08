@@ -9,6 +9,15 @@ This repository contains the Android application developed for the thesis:
 
 Android-Based Corn Crop Diseases and Pests Detection Using Convolutional Neural Network to Support Smart Corn Farming
 
+# Application Features
+- Detects corn leaf diseases and pests from an image input
+- Classify the image into categories: healthy, pest-infested, or diseased
+- Provide recommendations or actions based on the detection results
+- Allow users to capture images via the device camera or upload from the gallery
+- Operates in offline mode for detection to accommodate remote farming areas
+- Display detection results with bounding boxes and inference time
+
+
 ![Screenshot_20251115_182345_Cornea](https://github.com/user-attachments/assets/46d05cd5-b092-4e09-bd51-4e3232686988)
 
 ![Screenshot_20251115_182544_Cornea](https://github.com/user-attachments/assets/92c0622c-5190-4f41-b6ab-45f3b5949cc4)
